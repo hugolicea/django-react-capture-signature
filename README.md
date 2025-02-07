@@ -42,7 +42,7 @@ This project is a web application that allows users to capture and save signatur
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/django-react-signature-capture.git
+   git clone https://github.com/hugolicea/django-react-signature-capture.git
    cd django-react-signature-capture
    ```
 
